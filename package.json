@@ -1,0 +1,25 @@
+{
+  "name": "iowork",
+  "version": "1.0.0",
+  "description": "restapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/budiono15/restapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs",
+    "express"
+  ],
+  "author": "iowork",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/budiono15/restapi/issues"
+  },
+  "homepage": "https://github.com/budiono15/restapi#readme"
+}
